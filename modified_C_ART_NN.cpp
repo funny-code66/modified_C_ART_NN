@@ -73,6 +73,7 @@ void C_ART() {
 int main(void) {
   freopen("in.in", "r", stdin);
   freopen("out.out", "w", stdout);
+  init();
   FOR(i, 0, dataLen) printf("%d", output[j]);
   return 0;
 }
