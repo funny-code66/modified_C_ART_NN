@@ -38,7 +38,7 @@ float choiceFunc(int m, complex x[100]) {
   NORM(tmp, N, &normW_X);
   NORM(w[m], N, &normW);
 
-  return normW_X / (alpha+normW);
+  return normW_X / (alpha + normW);
 }
 
 void C_ART() {
@@ -70,3 +70,9 @@ void C_ART() {
   }
 }
 
+int main(void) {
+  freopen("in.in", "r", stdin);
+  freopen("out.out", "w", stdout);
+  FOR(i, 0, dataLen) printf("%d", output[j]);
+  return 0;
+}
