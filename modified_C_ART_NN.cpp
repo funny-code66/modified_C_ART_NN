@@ -1,3 +1,11 @@
+///////////////////////////////////////////////////////////////////////////////
+//  _____           .   .                                                    //
+//    |             |\ /|                       (Neural Network)             //
+//    |est Code for | ' |odified Complex-valued  ART  NN                     //
+//                                               (Adaptive Resonance Theory) //
+//                                                                           //
+///////////////////////////////////////////////////////////////////////////////
+
 #include <bits\stdc++.h>
 
 #define complex complex(float)
