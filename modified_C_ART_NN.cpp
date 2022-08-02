@@ -4,6 +4,8 @@
 //    |est Code for | ' |odified Complex-valued  ART  NN                     //
 //                                               (Adaptive Resonance Theory) //
 //                                                                           //
+//    Author: James Bright Gene        Reviewer: Dr.Ryerson                  //
+//    Date  : 7/31/2022                Status  : Passed                      //
 ///////////////////////////////////////////////////////////////////////////////
 
 #include <bits\stdc++.h>
